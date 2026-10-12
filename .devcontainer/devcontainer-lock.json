@@ -1,0 +1,29 @@
+{
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "version": "2.5.9",
+      "resolved": "ghcr.io/devcontainers/features/common-utils@sha256:cb0c4d3c276f157eed17935747e364178d75fee17f55c4e129966f64633deb3a",
+      "integrity": "sha256:cb0c4d3c276f157eed17935747e364178d75fee17f55c4e129966f64633deb3a"
+    },
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "1.8.0",
+      "resolved": "ghcr.io/devcontainers/features/python@sha256:fbcad6955caeecc5ad3f7886baf652e25cba5225a6c4c2287c536de2e5607511",
+      "integrity": "sha256:fbcad6955caeecc5ad3f7886baf652e25cba5225a6c4c2287c536de2e5607511"
+    },
+    "ghcr.io/joechandler73/devcontainer-features/nerd-font:latest": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/joechandler73/devcontainer-features/nerd-font@sha256:540c67f69834a0c915db1abf7df8627b0c21e5c9d537e8c83145f42115ece597",
+      "integrity": "sha256:540c67f69834a0c915db1abf7df8627b0c21e5c9d537e8c83145f42115ece597"
+    },
+    "ghcr.io/joechandler73/devcontainer-features/starship-prompt:latest": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/joechandler73/devcontainer-features/starship-prompt@sha256:7f1c335086f7161347a850384794aa30bb201b9e7c67e31aa33710aeee45d279",
+      "integrity": "sha256:7f1c335086f7161347a850384794aa30bb201b9e7c67e31aa33710aeee45d279"
+    },
+    "ghcr.io/joechandler73/devcontainer-features/zsh-syntax-highlighting:latest": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/joechandler73/devcontainer-features/zsh-syntax-highlighting@sha256:06792daf3138c19bfb4b2ad8f03c4dbb812fbfe455a8db7f19169e17b7f1d8a1",
+      "integrity": "sha256:06792daf3138c19bfb4b2ad8f03c4dbb812fbfe455a8db7f19169e17b7f1d8a1"
+    }
+  }
+}
